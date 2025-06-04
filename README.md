@@ -1,5 +1,5 @@
-# 文章 <font face="Times New Roman">_Intensified Dry-Hot Extremes Exacerbate Health Risks of Chronic Respiratory Diseases_</font> 中使用的代码
-## code used in paper <font face="Times New Roman">_Intensified Dry-Hot Extremes Exacerbate Health Risks of Chronic Respiratory Diseases_</font>
+# 文章 _<font face="times new roman">Intensified Dry-Hot Extremes Exacerbate Health Risks of Chronic Respiratory Diseases</font>_ 中使用的代码
+## code used in paper _<font face="times new roman">Intensified Dry-Hot Extremes Exacerbate Health Risks of Chronic Respiratory Diseases</font>_
 
 
 包括SAPEI指数计算、复合干热事件识别、危险性、暴露度、脆弱性、适应能力以及健康风险计算，其余文章中使用的统计分析，绘图代码
